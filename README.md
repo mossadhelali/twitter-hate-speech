@@ -41,10 +41,12 @@ The project contains the following files:
 
 ## How To Run
 
-1. Download the necessary data for feature extraction
+1. Download the necessary data for feature extraction:
+
     `python download_data.py`
 
-2. Run the code to train on train, and give train, dev accuracy and test predictions as test_predictions.tsv
+2. Run the code to train on train, and give train, dev accuracy and test predictions as test_predictions.tsv:
+
     `python main.py`
 
 ### Libraries Required:
